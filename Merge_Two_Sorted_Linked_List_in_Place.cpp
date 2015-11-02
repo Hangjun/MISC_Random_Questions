@@ -1,9 +1,6 @@
 /* Given two sorted linked lists l1 and l2, merge them into a single sorted list without allocating additional memory */
 
 #include <iostream>
-#include <queue>
-#include <algorithm>
-#include <unordered_set>
 
 using namespace std;
 
